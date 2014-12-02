@@ -6,7 +6,7 @@ require_once 'autoload.php';
 // Fill CLIENT ID, CLIENT SECRET ID, REDIRECT URI from Google Developer Console
  $client_id = '74729835998-pockbrm42cavk92s7h9as49ml8klhsgu.apps.googleusercontent.com';
  $client_secret = '3b5aXtlgXoVrza4pFXbkCROV';
- $redirect_uri = 'http://localhost/git/googleapi/test.php';
+ $redirect_uri = "http://". $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
  $simple_api_key = 'AIzaSyCR8pnhBgIbpjeHJOByh4EEhsccms36fQs';
  
 //Create Client Request to access Google API
