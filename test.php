@@ -58,7 +58,7 @@ if ($client->getAccessToken()) {
   $_SESSION['access_token'] = $client->getAccessToken();
 } else {
   $authUrl = $client->createAuthUrl();
-  //header('Location: ' . filter_var($authUrl, FILTER_SANITIZE_URL));
+  header('Location: ' . filter_var($authUrl, FILTER_SANITIZE_URL));
 }
 
 ?>
