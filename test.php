@@ -6,7 +6,7 @@ require_once 'autoload.php';
 // Fill CLIENT ID, CLIENT SECRET ID, REDIRECT URI from Google Developer Console
  $client_id = '74729835998-pockbrm42cavk92s7h9as49ml8klhsgu.apps.googleusercontent.com';
  $client_secret = '3b5aXtlgXoVrza4pFXbkCROV';
- $redirect_uri = 'http://localhost/projects/gittest/googleapi/test.php';
+ $redirect_uri = 'http://localhost/git/googleapi/test.php';
  $simple_api_key = 'AIzaSyCR8pnhBgIbpjeHJOByh4EEhsccms36fQs';
  
 //Create Client Request to access Google API
@@ -58,6 +58,7 @@ if ($client->getAccessToken()) {
   $_SESSION['access_token'] = $client->getAccessToken();
 } else {
   $authUrl = $client->createAuthUrl();
+  header('Location: ' . filter_var($authUrl, FILTER_SANITIZE_URL));
 }
 
 ?>
