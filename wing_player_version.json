@@ -1,5 +1,6 @@
 {
   "version": "0.6",
   "update_mode": "optional",
-  "install_from": "https://bit.ly/3olfYH8"
+  "install_from": "https://bit.ly/3olfYH8",
+  "default_m3u": "https://iptv-org.github.io/iptv/countries/in.m3u,https://iptv-org.github.io/iptv/categories/movies.m3u,https://iptv-org.github.io/iptv/categories/sports.m3u"
 }
