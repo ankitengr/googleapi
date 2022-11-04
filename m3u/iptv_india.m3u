@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ltvip_zeenews" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Zee_News.png",Zee News-hindi
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=01A+Lf8+LK3Fbj0yDrDMKGDu57UgGiayk0b4IqJO3E8xY6VDN+GwjbEiyH0NJbv+HYHII/V7eLTw0BggJEc9dIcT4KwAFMHVG3zM50CCYNjfEhkNXyTThgfvYw28sKjo:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_aajtakhd" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Aaj_Tak_HD.png",Aajtak HD-hindi
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=Akl/0JXJ1gyPdF6tpsoIQ9Ng4TrZ2xie14aAfP20QOom0UDTVf07U9kCfUzEPDBfdYOyHkuG/rleVakzswD8pg==:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_aajtak" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Aaj_Tak_logo.png",Aajtak-hindi
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=FCtkQ0qE2rudvko4H9rj9l0V8gmyjmI4WLWsYo2LYPMp34j/K5KQT1p4CBOOQidtkA4iWtZevncoeV6FWjr2WGnzOGzWJWWV+/yMr/iU2wJBjxoyH9M7XHw7/Si8SDlLF+RKSWDpZ7o5qAExnN3Eog==:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_nicktamil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/1200px-Nick_logo_2009.svg.png",Nick-tamil
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=3fc6wHD8RKUW5G9QJQpqIzkR5i+0CKACX57kyh4LUxJS2mjcNnngJfkxAi28ZOOrgSrHtaHovMUL1AvOVZzlhy+zHIEBW7bUosgECk0rG7I=:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_pogotamil" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/01/Pogo-2-2-2.png",Pogo-tamil
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=3fc6wHD8RKUW5G9QJQpqIzkR5i+0CKACX57kyh4LUxKRkmEwnpzC47tQk7Gbc+WoVwXwcg9MhEMY5zQET4zpe7ylwncueIBFsp/5Rh+hzcY=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_sonyten3" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png",Sony Ten 3-hindi
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=orEBwMpfBfKV7p8SlBDtLQ+1psVWndjs8+ApuzACD6ZJQkNw1G9tQBQpuXfddkuZJG2LkB1wdxUMvOq+4PjVKzLMJ+tBkrr9i+E3kYQl+FM=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_sonyten2" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png",Sony Ten 2-hindi
