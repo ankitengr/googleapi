@@ -4,5 +4,5 @@
   "update_mode": "optional",
   "install_from": "https://bit.ly/3olfYH8",
   "msg": "New version available. This ver support old devices, firestick, favorites, default playlist, cast on tv whether any android device including firestick. Also can play any m3u playlist and save for future. If direct update not work then use https://bit.ly/3olfYH8 to download or check in your device download folder to install.",
-  "default_m3u": "https://iptv-org.github.io/iptv/countries/in.m3u,https://iptv-org.github.io/iptv/categories/movies.m3u,https://iptv-org.github.io/iptv/categories/sports.m3u,https://raw.githubusercontent.com/ankitengr/googleapi/master/m3u/iptv_india.m3u"
+  "default_m3u": "https://iptv-org.github.io/iptv/countries/in.m3u,https://iptv-org.github.io/iptv/categories/movies.m3u,https://iptv-org.github.io/iptv/categories/sports.m3u,https://raw.githubusercontent.com/ankitengr/googleapi/master/m3u/iptv_india.m3u,https://raw.githubusercontent.com/ankitengr/googleapi/master/m3u/latest_released_movies.m3u"
 }
