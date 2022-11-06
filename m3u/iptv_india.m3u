@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ltvip_starsports1hindi_s3" tvg-logo="https://logodix.com/logo/817076.jpg",Star Sports 1 HD - Direct-hindi
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=qwUTFkKMJPOFgCHSagh0/YosuJgg6ATSKjkRVzPWyhoS8KDNdn212F98TvkiTnu3bWF6Y5dBh0xhB3htwmv6XWG8+e1Ts6ZNOs4HpVhXtWHVPBke3VwpOXOX1cv/s2hufZz++Mqi0xeov3/1fpIyy5pqJvYnJJzLZXhNZVHlxkM=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_zeenews" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Zee_News.png",Zee News-hindi
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=01A+Lf8+LK3Fbj0yDrDMKGDu57UgGiayk0b4IqJO3E8xY6VDN+GwjbEiyH0NJbv+HYHII/V7eLTw0BggJEc9dIcT4KwAFMHVG3zM50CCYNjfEhkNXyTThgfvYw28sKjo:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_aajtakhd" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Aaj_Tak_HD.png",Aajtak HD-hindi
@@ -13,6 +15,8 @@ https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=3fc6wHD
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=PseKG+Fy/xRkKBNd0p/KjVofNSOHorTp4naVX6sDuSxGJtIRSXuqLGGvinGB9peqUolzuRl1RYoPXMOjTe+IqGi+c2tf0F0mWXTWqjjbObQ=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_colorsbanglahd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png",colors bangla hd-bengali
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=09BKqD+tRVvCT8jN4JaKCTAlnfDxpIYAYaNUsYQSL0dMTIRibYRm06MtuB4WBDTQ:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_starsports3hdhindi" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-3-logo-300x300.jpg",Star Sports 3 HD-hindi
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=moekC9y7ReMsuXWTF+9yF0XbPCi+qkFeCf5Wey6rYyNHLp6iox5X/arvv5NWPwWi:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_starsports1hdhindi" tvg-logo="https://logodix.com/logo/817076.jpg",Star Sports 1 HD-hindi
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=Bn6UdD7bKso5FXPYzjEPs0Wf8rQ8MCh1EwxgPBrLk5J7iOmpfJTHwt6CMTYIGL3rxBFl6vJXpP4GBWGbi4qQHw==:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_tensports" tvg-logo="https://image.winudf.com/v2/image1/cmlhei50ZW4uc3BvcnRzLnN0cmVhbWluZ19zY3JlZW5fM18xNTcwNTcyMzkyXzA4OQ/screen-3.jpg?fakeurl=1&type=.webp",Ten Sports-hindi
