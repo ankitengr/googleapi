@@ -7,7 +7,7 @@
   "default_m3u": "https://raw.githubusercontent.com/ankitengr/googleapi/master/m3u/iptv_india.m3u,https://raw.githubusercontent.com/ankitengr/googleapi/master/m3u/latest_released_movies.m3u,https://raw.githubusercontent.com/ankitengr/googleapi/master/m3u/latest_released_series.m3u,https://raw.githubusercontent.com/ankitengr/googleapi/master/m3u/bollywood_movies.m3u,https://raw.githubusercontent.com/ankitengr/googleapi/master/m3u/hollywood_movies.m3u,https://raw.githubusercontent.com/ankitengr/googleapi/master/m3u/tollywood_movies.m3u",
   "m3u_bkp": "https://iptv-org.github.io/iptv/countries/in.m3u,https://iptv-org.github.io/iptv/categories/movies.m3u,https://iptv-org.github.io/iptv/categories/sports.m3u,https://raw.githubusercontent.com/ankitengr/googleapi/master/m3u/iptv_india.m3u,https://raw.githubusercontent.com/ankitengr/googleapi/master/m3u/latest_released_movies.m3u,https://raw.githubusercontent.com/ankitengr/googleapi/master/m3u/latest_released_series.m3u,https://raw.githubusercontent.com/ankitengr/googleapi/master/m3u/bollywood_movies.m3u,https://raw.githubusercontent.com/ankitengr/googleapi/master/m3u/hollywood_movies.m3u,https://raw.githubusercontent.com/ankitengr/googleapi/master/m3u/tollywood_movies.m3u",
   "ad_support" : true,
-  "first_ad_at" : 15000,
+  "first_ad_at" : 0,
   "ad_interval" : 15
   
 }
