@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ltvip_suntv" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOqTrXAvx6ppSlcgNIgvQWD0MBFqchn8lOTjCL_Ig=s900-c-k-c0x00ffffff-no-rj",SUN TV-bangla
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=tv7c1x/ao5kZSWqDcoCPNw9AP+8OqtHtEqPKmwmUJ5JuWdJorfUSlQI9dRmkMGyOqcnz/TPeGmxwHU/FylontuX7V+0YNJUy9xzgV4rzhbc=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_starsports2hd" tvg-logo="https://logodix.com/logo/817076.jpg",Star Sports 2 HD-english
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=LSt6VmebkYPGM6IgZmEnZyAVxn0WfdWOJq6nTzQYpDJqNMwTTLpL9c1I7uCupJHVMCrQfGlV0GO+ybjkZ1GkbjsT03PGIWB6W9o+TuQaROY=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_ftv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7YmQLxOJcvkQcQJupWpS4Vn91l5KR1iG2xQ&usqp=CAU",Fashion TV-english
@@ -23,12 +25,16 @@ https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=Akl/0JX
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=Akl/0JXJ1gyPdF6tpsoIQ9Ng4TrZ2xie14aAfP20QOpnHSGeSBWANpCG15d4l1bw:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_colorshd_s1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png",Colors TV HD-hindi
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=3N5ZmCAmMFRLAUtnHTcn+HpPHwYjs+B24Xe9V1ZCpjeb/5GrM0Y3Bw4Hl39I6kao5RVf6k6sxIYbWOUfEULioSmmixls3nQ2PNqmlt5FJPE=:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_stargoldhd" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNllXcx3mGS-7pTggRlP4ZbTE0uj6QSZn7D-zY5Lw=s900-c-k-c0x00ffffff-no-rj",Star Gold HD-hindi
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=tv7c1x/ao5kZSWqDcoCPNw9AP+8OqtHtEqPKmwmUJ5JuWdJorfUSlQI9dRmkMGyOxyept6juOdNgKoRDT1/Gvnhx5z6rPytE1preNhSdKNk=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_starsportselect1hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359",Star Sports Select  1 HD-english
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=LSt6VmebkYPGM6IgZmEnZyAVxn0WfdWOJq6nTzQYpDJqNMwTTLpL9c1I7uCupJHVMCrQfGlV0GO+ybjkZ1GkbjsT03PGIWB6W9o+TuQaROY=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_starsports1hdhindi" tvg-logo="https://logodix.com/logo/817076.jpg",Star Sports 1 HD-hindi
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=LSt6VmebkYPGM6IgZmEnZyAVxn0WfdWOJq6nTzQYpDJqNMwTTLpL9c1I7uCupJHVhuCvi2OjPQ/8LKOFd1OM4ssbzdsmGK7egvGGN5krz28=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_9xm" tvg-logo="https://i1.sndcdn.com/avatars-0SMgzjmQbJmOMolq-sDnbxA-t500x500.jpg",9xm-hindi
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=3CtF7enL+h2h6iJ+ZJWxvAhwA46hwKmrYrrxoT1dYZxr1XIQILhz6C0zLxTQEi97O62xqPwFK5gDDuNMtTB4ojgjy1dGuBYxI1AREbyaAUI=:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_colorscineplex" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMRxqrHZ3F5MZgTdC0sHIbuXtTQJcTIszSsnQWdKg=s900-c-k-c0x00ffffff-no-rj",Colors Cineplex-hindi
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=tv7c1x/ao5kZSWqDcoCPNw9AP+8OqtHtEqPKmwmUJ5JuWdJorfUSlQI9dRmkMGyOADFoO3KqpC3naN1CVLDwVFUXXROt8k7m3SXlccfYG4s=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_sonyten3" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png",Sony Ten 3-Sports-hindi
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=orEBwMpfBfKV7p8SlBDtLQ+1psVWndjs8+ApuzACD6ZJQkNw1G9tQBQpuXfddkuZJG2LkB1wdxUMvOq+4PjVKzLMJ+tBkrr9i+E3kYQl+FM=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_sonyten2" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png",Sony Ten 2-Sports-hindi
