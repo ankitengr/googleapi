@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ltvip_mtvpop" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/6a/MTV_Pop_Pawston_2021.svg/revision/latest?cb=20210324222908",MTV Pop-hindi
+#EXTINF:-1 tvg-id="ltvip_starsports2hd" tvg-logo="https://logodix.com/logo/817076.jpg",Star Sports 2 HD-english
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=LSt6VmebkYPGM6IgZmEnZyAVxn0WfdWOJq6nTzQYpDJqNMwTTLpL9c1I7uCupJHVMCrQfGlV0GO+ybjkZ1GkbjsT03PGIWB6W9o+TuQaROY=:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_ftv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7YmQLxOJcvkQcQJupWpS4Vn91l5KR1iG2xQ&usqp=CAU",Fashion TV-english
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=NXdqtwBYbJfLSwsxe6nglRGDzr6IA6ZosbfsPrN2cuk9Mww9xP4LcF7zs94JMBSlHktBjrz0yQUpLeITW02DrmPUznw4hv0dLMfhQhYlrY8=:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_9xjalwa" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqP-hLAWma3waBHVDQBXwRurpMCqd5OmogFMpfsXaQ=s900-c-k-c0x00ffffff-no-rj",9X Jalwa-hindi
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=3CtF7enL+h2h6iJ+ZJWxvAhwA46hwKmrYrrxoT1dYZzHY2lTVZa5+HJuy5PkgzwjSSHKeNQINoPxMFLGHJqy19s5x3mfWfxAMgPc/s777l4=:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_mtvpop" tvg-logo="https://i.postimg.cc/PxKsM3yf/download-10.jpg",MTV Pop-hindi
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=RuA+EYiz02yn6AWJlON/ZJApqJrdBZyqU228LU4UufmbV1vHBdoMC3zDpcUaN0djv18wRZ7LDOSF3vvEJYDBKL/gds8ioU17guuF716q77g=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_ndtvhindi" tvg-logo="https://i.ndtvimg.com/i/2016-11/ndtv-india-logo_650x400_71478247761.jpg",NDTV News-hindi
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=uapo2hYg6Ldc4DdpVyiRIN+olfI9uJWs3/1bMllyP3N3FJfl1lJSQLwArd2jwYHZgezdlDp7FakBgdSm58hJcRdwDy6vtm9NC1uzyRvmI0YqCmzehe+cfREixzv90g3M:MTIzNDU2Nzg1NTAxNTEyMQ==
@@ -17,6 +23,12 @@ https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=Akl/0JX
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=Akl/0JXJ1gyPdF6tpsoIQ9Ng4TrZ2xie14aAfP20QOpnHSGeSBWANpCG15d4l1bw:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_colorshd_s1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png",Colors TV HD-hindi
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=3N5ZmCAmMFRLAUtnHTcn+HpPHwYjs+B24Xe9V1ZCpjeb/5GrM0Y3Bw4Hl39I6kao5RVf6k6sxIYbWOUfEULioSmmixls3nQ2PNqmlt5FJPE=:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_starsportselect1hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359",Star Sports Select  1 HD-english
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=LSt6VmebkYPGM6IgZmEnZyAVxn0WfdWOJq6nTzQYpDJqNMwTTLpL9c1I7uCupJHVMCrQfGlV0GO+ybjkZ1GkbjsT03PGIWB6W9o+TuQaROY=:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_starsports1hdhindi" tvg-logo="https://logodix.com/logo/817076.jpg",Star Sports 1 HD-hindi
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=LSt6VmebkYPGM6IgZmEnZyAVxn0WfdWOJq6nTzQYpDJqNMwTTLpL9c1I7uCupJHVhuCvi2OjPQ/8LKOFd1OM4ssbzdsmGK7egvGGN5krz28=:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_9xm" tvg-logo="https://i1.sndcdn.com/avatars-0SMgzjmQbJmOMolq-sDnbxA-t500x500.jpg",9xm-hindi
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=3CtF7enL+h2h6iJ+ZJWxvAhwA46hwKmrYrrxoT1dYZxr1XIQILhz6C0zLxTQEi97O62xqPwFK5gDDuNMtTB4ojgjy1dGuBYxI1AREbyaAUI=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_sonyten3" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png",Sony Ten 3-Sports-hindi
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=orEBwMpfBfKV7p8SlBDtLQ+1psVWndjs8+ApuzACD6ZJQkNw1G9tQBQpuXfddkuZJG2LkB1wdxUMvOq+4PjVKzLMJ+tBkrr9i+E3kYQl+FM=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_sonyten2" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png",Sony Ten 2-Sports-hindi
