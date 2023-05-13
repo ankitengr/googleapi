@@ -1,38 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ltvip_starsports1hindi_s3" tvg-logo="https://logodix.com/logo/817076.jpg",Star Sports 1 HD - Direct-hindi
-https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=RfyagQ9IvizikEXLvCyi4M3HRxexpv0jcKt3JVenAlu1wHKlNW1F7+2w5MV6zcFG5tZg+Xg5nE2GyB7EcLCJ0yzsYHvDg32Qi/hZxOZwCag=:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_mtvpop" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/6a/MTV_Pop_Pawston_2021.svg/revision/latest?cb=20210324222908",MTV Pop-hindi
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=RuA+EYiz02yn6AWJlON/ZJApqJrdBZyqU228LU4UufmbV1vHBdoMC3zDpcUaN0djv18wRZ7LDOSF3vvEJYDBKL/gds8ioU17guuF716q77g=:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_ndtvhindi" tvg-logo="https://i.ndtvimg.com/i/2016-11/ndtv-india-logo_650x400_71478247761.jpg",NDTV News-hindi
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=uapo2hYg6Ldc4DdpVyiRIN+olfI9uJWs3/1bMllyP3N3FJfl1lJSQLwArd2jwYHZgezdlDp7FakBgdSm58hJcRdwDy6vtm9NC1uzyRvmI0YqCmzehe+cfREixzv90g3M:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_itdy" tvg-logo="https://yt3.googleusercontent.com/5Zr4bV9iJRa6zNS_-VSbZ7j5S8JhQc2Aez7b9y923AnYqJnltvI2iGdOFnWBcW-34ioPZlxzzLE=s900-c-k-c0x00ffffff-no-rj",India Today-english
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=Akl/0JXJ1gyPdF6tpsoIQxPkkbmf71pACS851kJ+Y++9Cb8qJUYI5rSp2VuC/pfSSEluLtb20q6j0c8tCMrCoA==:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_gnt" tvg-logo="https://i.ytimg.com/vi/AhzgL0m9xn4/maxresdefault.jpg",Good News Today-hindi
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=Akl/0JXJ1gyPdF6tpsoIQwJ05yLPI5/2MOjSSNL0sLcNMhDOGyOxbH/MQi/sb4EE:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_abp" tvg-logo="https://m.media-amazon.com/images/I/31eL3mYGNRL.png",ABP News-hindi
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=wasE05oFo69U+FIrSbe96aheLUXKvwrJKXIcWMFZ3UkXPxoggZLsieVEcsofbIX3gRhnlE+tDwJyITN2Sf2QuCPxo+eoHXm2Fg/HRO1h4KM=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_zeenews" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Zee_News.png",Zee News-hindi
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=01A+Lf8+LK3Fbj0yDrDMKGDu57UgGiayk0b4IqJO3E8xY6VDN+GwjbEiyH0NJbv+HYHII/V7eLTw0BggJEc9dIcT4KwAFMHVG3zM50CCYNjfEhkNXyTThgfvYw28sKjo:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_aajtakhd" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Aaj_Tak_HD.png",Aajtak HD-hindi
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=Akl/0JXJ1gyPdF6tpsoIQ9Ng4TrZ2xie14aAfP20QOom0UDTVf07U9kCfUzEPDBfdYOyHkuG/rleVakzswD8pg==:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_aajtak" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2021/01/aajtak001.jpg",Aajtak-hindi
-https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=7NHpqdPgS2FyJZ1ZNjfbED0wC0X67T/PZUeagRlm7HAgZ/XFiqZ7p/bbbJYKIs6dPfv7R8+KPmz+vyVgwiR9BgPjI33kOOcLIY/J4AeKv7gMYzq9suJzuhcCh5+D2/AutgIMCXfU75GmYarwMIE0lQ==:MTIzNDU2Nzg1NTAxNTEyMQ==
-#EXTINF:-1 tvg-id="ltvip_nicktamil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/1200px-Nick_logo_2009.svg.png",Nick-tamil
-https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=3fc6wHD8RKUW5G9QJQpqIzkR5i+0CKACX57kyh4LUxJS2mjcNnngJfkxAi28ZOOrgSrHtaHovMUL1AvOVZzlhy+zHIEBW7bUosgECk0rG7I=:MTIzNDU2Nzg1NTAxNTEyMQ==
-#EXTINF:-1 tvg-id="ltvip_pogotamil" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/01/Pogo-2-2-2.png",Pogo-tamil
-https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=3fc6wHD8RKUW5G9QJQpqIzkR5i+0CKACX57kyh4LUxKRkmEwnpzC47tQk7Gbc+WoVwXwcg9MhEMY5zQET4zpe7ylwncueIBFsp/5Rh+hzcY=:MTIzNDU2Nzg1NTAxNTEyMQ==
-#EXTINF:-1 tvg-id="ltvip_starjalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",star jalsha hd-bengali
-https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=PseKG+Fy/xRkKBNd0p/KjVofNSOHorTp4naVX6sDuSxGJtIRSXuqLGGvinGB9peqUolzuRl1RYoPXMOjTe+IqGi+c2tf0F0mWXTWqjjbObQ=:MTIzNDU2Nzg1NTAxNTEyMQ==
-#EXTINF:-1 tvg-id="ltvip_colorsbanglahd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png",colors bangla hd-bengali
-https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=09BKqD+tRVvCT8jN4JaKCTAlnfDxpIYAYaNUsYQSL0dMTIRibYRm06MtuB4WBDTQ:MTIzNDU2Nzg1NTAxNTEyMQ==
-#EXTINF:-1 tvg-id="ltvip_starplushd_s2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png/revision/latest/scale-to-width-down/206?cb=20201206114814",star plus hd-hindi
-https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=WUPR2RGyWbASU37CXMl3U3iPcZWhPnYExJSM/kRf0+mv+JMsq+TElLiKBUnAvBRmkFcM/+PHq3zrIAG9A7Gpt9YDSeE2VldGeXkz3DcmF3jQtZaGDfjII6Vgty/9XhJ9:MTIzNDU2Nzg1NTAxNTEyMQ==
-#EXTINF:-1 tvg-id="ltvip_starplushd_s1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png/revision/latest/scale-to-width-down/206?cb=20201206114814",Star Plus HD-hindi
-https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=3N5ZmCAmMFRLAUtnHTcn+HpPHwYjs+B24Xe9V1ZCpjf75WNe5jQBJhfjuf1T9yke8gA05PRXXvwtUsn97vhbQE58w+93S8/ukTJ6ksPUsdE=:MTIzNDU2Nzg1NTAxNTEyMQ==
+https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=Akl/0JXJ1gyPdF6tpsoIQ9Ng4TrZ2xie14aAfP20QOpnHSGeSBWANpCG15d4l1bw:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_colorshd_s1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png",Colors TV HD-hindi
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=3N5ZmCAmMFRLAUtnHTcn+HpPHwYjs+B24Xe9V1ZCpjeb/5GrM0Y3Bw4Hl39I6kao5RVf6k6sxIYbWOUfEULioSmmixls3nQ2PNqmlt5FJPE=:MTIzNDU2Nzg1NTAxNTEyMQ==
-#EXTINF:-1 tvg-id="ltvip_starsports3hdhindi" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-3-logo-300x300.jpg",Star Sports 3 HD-hindi
-https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=moekC9y7ReMsuXWTF+9yF0XbPCi+qkFeCf5Wey6rYyNHLp6iox5X/arvv5NWPwWi:MTIzNDU2Nzg1NTAxNTEyMQ==
-#EXTINF:-1 tvg-id="ltvip_starsports1hdhindi" tvg-logo="https://logodix.com/logo/817076.jpg",Star Sports 1 HD-hindi
-https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=Bn6UdD7bKso5FXPYzjEPs0Wf8rQ8MCh1EwxgPBrLk5J7iOmpfJTHwt6CMTYIGL3rxBFl6vJXpP4GBWGbi4qQHw==:MTIzNDU2Nzg1NTAxNTEyMQ==
-#EXTINF:-1 tvg-id="ltvip_tensports" tvg-logo="https://image.winudf.com/v2/image1/cmlhei50ZW4uc3BvcnRzLnN0cmVhbWluZ19zY3JlZW5fM18xNTcwNTcyMzkyXzA4OQ/screen-3.jpg?fakeurl=1&type=.webp",Ten Sports-hindi
-https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=iLZ8vElrRw/zoWjtvq+gZpHVheM4kJ5ruo4hGtpryVr1J3UXi2UZZk+mij8wWj5q:MTIzNDU2Nzg1NTAxNTEyMQ==
-#EXTINF:-1 tvg-id="ltvip_starsportsselect2hdhindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359",Star Sports Select 2 HD-hindi
-https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=3MtX0VERR6i2TllaYlpv7SOKeqJIeSxkVWoC4hgS5i6d5HlLLf4lalWHAkq4mZ7hf786QpK+F+raT6GkVCIQcg==:MTIzNDU2Nzg1NTAxNTEyMQ==
-#EXTINF:-1 tvg-id="ltvip_starsports2hdhindi" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-SPORTS-2.jpg",Star Sports 2 HD-hindi
-https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=moekC9y7ReMsuXWTF+9yF0XbPCi+qkFeCf5Wey6rYyO2ghJnHTIa6uxEgeW8IdSk:MTIzNDU2Nzg1NTAxNTEyMQ==
-#EXTINF:-1 tvg-id="ltvip_starsports1hd" tvg-logo="https://logodix.com/logo/817076.jpg",Star Sports 1 HD-english
-https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=moekC9y7ReMsuXWTF+9yF0XbPCi+qkFeCf5Wey6rYyM4Oq0faH2/BLOJwwcxsVBE:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_sonyten3" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png",Sony Ten 3-Sports-hindi
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=orEBwMpfBfKV7p8SlBDtLQ+1psVWndjs8+ApuzACD6ZJQkNw1G9tQBQpuXfddkuZJG2LkB1wdxUMvOq+4PjVKzLMJ+tBkrr9i+E3kYQl+FM=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_sonyten2" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png",Sony Ten 2-Sports-hindi
@@ -55,5 +39,3 @@ https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=orEBwMp
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=orEBwMpfBfKV7p8SlBDtLQ+1psVWndjs8+ApuzACD6b5aaenuyWbtM1VRH8JBGrQr2UGDCDgTS+QiWMmsqXtXOU2SKXQ9ro/nfsv9x7o7CA=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_sonysix" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIX_Masthead_Logo.png",Sony Six-hindi
 https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=orEBwMpfBfKV7p8SlBDtLQ+1psVWndjs8+ApuzACD6bRvYfNKGa+FJDY2fBWl4xqr6K6/VhdEGXvO4BDsIVS7rVfMPSYLtNfmVoxTp1ADjU=:MTIzNDU2Nzg1NTAxNTEyMQ==
-#EXTINF:-1 tvg-id="ltvip_starsports1hindi_s2" tvg-logo="https://logodix.com/logo/817076.jpg",Star Sports 1-hindi
-https://fierce-sea-84420.herokuapp.com/videos/wing_player_start.mp4?data=moekC9y7ReMsuXWTF+9yF0XbPCi+qkFeCf5Wey6rYyP2z/weqHvVtVKmzqCOsIcy:MTIzNDU2Nzg1NTAxNTEyMQ==
