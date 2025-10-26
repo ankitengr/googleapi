@@ -1,10 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ltvip_tsportshd" tvg-logo="https://play-lh.googleusercontent.com/mxN_CJshnUA5InEIx1DvG2cez-P9ThGCNObQk04BJwQCb1K71f88M34MQ5WmUdQM8u8",T Sports
-https://ltv.herokuapp.com/videos/wing_player_start.mp4?data=ixHRIw1tM8P1xXMlQ72zhGHJgJsZ086RB9dAL61fS6ZMOp8VPjSBmACGTdgsLAH4Hl3GQ+nPej1sCoqx8830Hw==:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_ddnational" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png",DD National https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 tvg-id="ltvip_ddnews" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_News.png",DD News https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1 tvg-id="ltvip_ddsports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png",DD Sports
+https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1 tvg-id="ltvip_tsportshd" tvg-logo="https://play-lh.googleusercontent.com/mxN_CJshnUA5InEIx1DvG2cez-P9ThGCNObQk04BJwQCb1K71f88M34MQ5WmUdQM8u8",T Sports https://ltv.herokuapp.com/videos/wing_player_start.mp4?data=ixHRIw1tM8P1xXMlQ72zhGHJgJsZ086RB9dAL61fS6ZMOp8VPjSBmACGTdgsLAH4Hl3GQ+nPej1sCoqx8830Hw==:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_suntv" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOqTrXAvx6ppSlcgNIgvQWD0MBFqchn8lOTjCL_Ig=s900-c-k-c0x00ffffff-no-rj",SUN TV-tamil
 https://ltv.herokuapp.com/videos/wing_player_start.mp4?data=tv7c1x/ao5kZSWqDcoCPNw9AP+8OqtHtEqPKmwmUJ5JuWdJorfUSlQI9dRmkMGyOqcnz/TPeGmxwHU/FylontuX7V+0YNJUy9xzgV4rzhbc=:MTIzNDU2Nzg1NTAxNTEyMQ==
-#EXTINF:-1 tvg-id="ltvip_starsports2hd" tvg-logo="https://s3.amazonaws.com/zaubatrademarks/563b3a52-a795-4e12-b790-9311fe1ae97f.png",Star Sports 2 HD-english
-https://ltv.herokuapp.com/videos/wing_player_start.mp4?data=k7u2zKJgL4dLESj8pv1MBcxKYKyJo6w9lHYkTnDBxb7X0J4wIEm7M8A/ERcVzxTuPXESSz0qk1Y9rxFJ/Y6/XUshqycrCXz/gzeIFWgjFVs=:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_starsports2hd" tvg-logo="https://s3.amazonaws.com/zaubatrademarks/563b3a52-a795-4e12-b790-9311fe1ae97f.png",Star Sports 2 HD-Hindi
+http://116.90.120.149:8000/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-id="ltvip_ftv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7YmQLxOJcvkQcQJupWpS4Vn91l5KR1iG2xQ&usqp=CAU",Fashion TV-english
 https://ltv.herokuapp.com/videos/wing_player_start.mp4?data=NXdqtwBYbJfLSwsxe6nglRGDzr6IA6ZosbfsPrN2cuk9Mww9xP4LcF7zs94JMBSlHktBjrz0yQUpLeITW02DrmPUznw4hv0dLMfhQhYlrY8=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_9xjalwa" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqP-hLAWma3waBHVDQBXwRurpMCqd5OmogFMpfsXaQ=s900-c-k-c0x00ffffff-no-rj",9X Jalwa-hindi
@@ -29,10 +32,10 @@ https://ltv.herokuapp.com/videos/wing_player_start.mp4?data=Akl/0JXJ1gyPdF6tpsoI
 https://ltv.herokuapp.com/videos/wing_player_start.mp4?data=3N5ZmCAmMFRLAUtnHTcn+HpPHwYjs+B24Xe9V1ZCpjeb/5GrM0Y3Bw4Hl39I6kao5RVf6k6sxIYbWOUfEULioSmmixls3nQ2PNqmlt5FJPE=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_stargoldhd" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNllXcx3mGS-7pTggRlP4ZbTE0uj6QSZn7D-zY5Lw=s900-c-k-c0x00ffffff-no-rj",Star Gold HD-hindi
 https://ltv.herokuapp.com/videos/wing_player_start.mp4?data=tv7c1x/ao5kZSWqDcoCPNw9AP+8OqtHtEqPKmwmUJ5JuWdJorfUSlQI9dRmkMGyOxyept6juOdNgKoRDT1/Gvnhx5z6rPytE1preNhSdKNk=:MTIzNDU2Nzg1NTAxNTEyMQ==
-#EXTINF:-1 tvg-id="ltvip_starsportselect2hd" tvg-logo="https://hives.blob.core.windows.net/qcimages/trademark/8125474/imageshrine/ded1cb8611f24f45624e62d3b4df6f3f.jpg",Star Sports Select 2-english
-https://ltv.herokuapp.com/videos/wing_player_start.mp4?data=LSt6VmebkYPGM6IgZmEnZyAVxn0WfdWOJq6nTzQYpDJqNMwTTLpL9c1I7uCupJHVMCrQfGlV0GO+ybjkZ1GkbjsT03PGIWB6W9o+TuQaROY=:MTIzNDU2Nzg1NTAxNTEyMQ==
+#EXTINF:-1 tvg-id="ltvip_starsportselect2hd" tvg-logo="https://hives.blob.core.windows.net/qcimages/trademark/8125474/imageshrine/ded1cb8611f24f45624e62d3b4df6f3f.jpg",Star Sports Select 2-hindi
+http://116.90.120.149:8000/play/a0cm/index.m3u8
 #EXTINF:-1 tvg-id="ltvip_starsports1hdhindi" tvg-logo="https://logodix.com/logo/817076.jpg",Star Sports 1 HD-hindi
-https://ltv.herokuapp.com/videos/wing_player_start.mp4?data=LSt6VmebkYPGM6IgZmEnZyAVxn0WfdWOJq6nTzQYpDJqNMwTTLpL9c1I7uCupJHVhuCvi2OjPQ/8LKOFd1OM4ssbzdsmGK7egvGGN5krz28=:MTIzNDU2Nzg1NTAxNTEyMQ==
+http://116.90.120.149:8000/play/a0bv/index.m3u8
 #EXTINF:-1 tvg-id="ltvip_9xm" tvg-logo="https://i1.sndcdn.com/avatars-0SMgzjmQbJmOMolq-sDnbxA-t500x500.jpg",9xm-hindi
 https://ltv.herokuapp.com/videos/wing_player_start.mp4?data=3CtF7enL+h2h6iJ+ZJWxvAhwA46hwKmrYrrxoT1dYZxr1XIQILhz6C0zLxTQEi97O62xqPwFK5gDDuNMtTB4ojgjy1dGuBYxI1AREbyaAUI=:MTIzNDU2Nzg1NTAxNTEyMQ==
 #EXTINF:-1 tvg-id="ltvip_colorscineplex" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMRxqrHZ3F5MZgTdC0sHIbuXtTQJcTIszSsnQWdKg=s900-c-k-c0x00ffffff-no-rj",Colors Cineplex-hindi
